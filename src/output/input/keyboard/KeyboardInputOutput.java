@@ -13,6 +13,8 @@ public class KeyboardInputOutput {
 	System.out.println(x);
 	String y = sc.next();
 	System.out.println(y);
+	
+	System.out.println(x);
 	}
 
 }
